@@ -7,8 +7,8 @@ A passionate Flutter Developer with a knack for creating engaging mobile applica
 - 🎓 **Certification**: [Flutter Certificate](https://drive.google.com/file/d/1TcF0Y02jDNH45a_yEYT450jBiXMXhYOY/view?usp=drive_link)  
 - 🌍 **Location**: [Egypt, Giza]  
 - 📧 **Email**: mostafamohamedit1@gmail.com
-- 🔗 **Portfolio**: [Your Personal Website or Portfolio](https://github.com/mostafa407)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mostafa-mohamed-7378b5205)
+- 🔗 **Portfolio**: [Portfolio]([https://github.com/mostafa407](https://mostafa-devops-flutter-mn1juwe.gamma.site/))
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mostafa-mohamed-7378b5205)
 
 ---
 
